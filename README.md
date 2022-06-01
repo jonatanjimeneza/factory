@@ -12,6 +12,6 @@ Que vamos a explicar?
 
 3⃣ Practicando en REMIX IDE
 
-Youtube:
+Youtube: https://youtu.be/I3JcHGq1d_w
 
 ![factory insta (1)](https://user-images.githubusercontent.com/101588200/171429586-d0fdd032-e80a-49e6-add8-fa2e5bfa75e4.png)
